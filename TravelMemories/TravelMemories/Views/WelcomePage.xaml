@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TravelMemories.Views.WelcomePage">
+    <Grid RowDefinitions="*,Auto, Auto, Auto,*">
+        <Label Grid.Row="1" Text="Welcome to TravelMemories" HorizontalOptions="Center" FontSize="Large"/>
+        <Button  Grid.Row="2" Text="CREATE AN ACCOUNT" HorizontalOptions="Center" WidthRequest="280"/>
+
+        <Button  Grid.Row="3" Text="I ALREADY HAVE AN ACCOUNT" BackgroundColor="White" TextColor="Teal" Clicked="AlreadyRegister_Clicked"
+                 HorizontalOptions="Center" BorderWidth="0.5"  BorderColor="Black" WidthRequest="280">
+        </Button>
+    </Grid>
+</ContentPage>

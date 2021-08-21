@@ -1,0 +1,17 @@
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\Views\MapLocation.xaml.g.cs
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\TravelMemories.AssemblyInfoInputs.cache
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\TravelMemories.AssemblyInfo.cs
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\TravelMemories.csproj.CoreCompileInputs.cache
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\TravelMemories.dll
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\ref\TravelMemories.dll
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\TravelMemories.pdb
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\bin\Debug\netstandard2.0\TravelMemories.deps.json
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\bin\Debug\netstandard2.0\TravelMemories.dll
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\bin\Debug\netstandard2.0\ref\TravelMemories.dll
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\bin\Debug\netstandard2.0\TravelMemories.pdb
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\asalhi\Desktop\TravelMemories\TravelMemories\TravelMemories\TravelMemories\obj\Debug\netstandard2.0\TravelMemories.csproj.AssemblyReference.cache

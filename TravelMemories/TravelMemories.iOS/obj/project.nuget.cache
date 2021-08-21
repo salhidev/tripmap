@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v12vnr+RIqs8nElHXbqxNirX6t6RJivnrxU084NSTFJGmCgC+fYz9DT4xg+7w2m2p80SRDUIngz1JG/Lloj+4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asalhi\\Desktop\\tripmap\\tripmap\\TravelMemories\\TravelMemories.iOS\\TravelMemories.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asalhi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\asalhi\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2012\\xamarin.forms.maps.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
