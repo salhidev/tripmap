@@ -1,13 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
-             x:Class="TravelMemories.Views.MapLocation"
-             BackgroundColor="white">
-    <ContentPage.Content>
-        <StackLayout>
-            <Button Text="CREATE NEW TRIP" Clicked="Button_Clicked"/>
-            <Button Text="CREATE NEW TRIP" Clicked="Button_Clicked"/>
-            
-        </StackLayout>
-    </ContentPage.Content>
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TravelMemories.Views.MapLocation">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="search.png" />
+    </ContentPage.ToolbarItems>
+    <AbsoluteLayout>
+        <ContentView Content="{Binding Map}" 
+               AbsoluteLayout.LayoutBounds="0,0,1,1"
+               AbsoluteLayout.LayoutFlags="All" 
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand" />
+        <Label Text="No Trips Yet. create your first trip here!" 
+                 AbsoluteLayout.LayoutBounds="60, 300, 310, 35" BackgroundColor="Cyan" FontSize="Medium" TextColor="Black"/>
+        <Button AbsoluteLayout.LayoutBounds="0, 1, AutoSize, AutoSize"
+          AbsoluteLayout.LayoutFlags="PositionProportional"
+          HeightRequest="140"
+          WidthRequest="420"
+         Text="Create New Trip" />
+    </AbsoluteLayout>
 </ContentPage>

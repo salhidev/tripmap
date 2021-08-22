@@ -12,13 +12,11 @@ namespace TravelMemories.Views
     {
         public MapLocation()
         {
-            Map map = new Map();
-            Content = map;
+            Map = new Map();
+            InitializeComponent();
+            this.BindingContext = this;
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
-        {
-
-        }
+        public Map Map { get; private set; }
     }
 }
